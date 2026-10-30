@@ -1,6 +1,6 @@
 # language: fr
 
-Fonctionnalité: Vérifier l'exécution d'un test automatisé local
+Fonctionnalité: Vérifier l'exécution d'un test automatisé local en 2026
 
   Scénario: Vérifier une condition simple
     
